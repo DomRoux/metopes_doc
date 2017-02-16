@@ -2,7 +2,7 @@
 
 1. **Logique générale de la chaîne éditoriale**
 
-	- Techniques et normes liées à la structuration des données en contexte éditorial ; 
+	- Techniques gggggg des données en contexte éditorial ; 
 	- Présentation du modèle éditorial (TEI pour l’édition d’articles et de livres) ; 
 	- Présentation et installation des outils ; 
 	- Configuration de l’espace de travail.
