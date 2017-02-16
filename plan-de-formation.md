@@ -1,4 +1,4 @@
-# Plan de formation
+# Plan de formation trobo
 
 1. **Logique générale de la chaîne éditoriale**
 
